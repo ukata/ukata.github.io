@@ -56,4 +56,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-minimal_mistakes_skin: "contrast"
+minimal_mistakes_skin: "neon"
