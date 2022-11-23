@@ -6,6 +6,7 @@ categories: blog
 header:
   image: /assets/images/fjord.png
   teaser: /assets/images/fjord.png
+entries_layout: grid
 ---
 This is intoduction post of me here.
 ![My helpful screenshot](/assets/images/fjord.png)
