@@ -57,3 +57,13 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 minimal_mistakes_skin: "neon"
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      entries_layout: grid
