@@ -3,6 +3,8 @@ layout: single
 title:  "Hello!"
 date:   2022-11-23 22:10:53 +0100
 categories: blog
+header:
+  image: /assets/images/image-filename.jpg
 ---
 This is intoduction post of me here.
 ![My helpful screenshot](/assets/images/fjord.png)
