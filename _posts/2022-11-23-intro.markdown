@@ -5,3 +5,4 @@ date:   2022-11-23 22:10:53 +0100
 categories: blog
 ---
 This is intoduction post of me here.
+![My helpful screenshot](/assets/images/fjord.png)
