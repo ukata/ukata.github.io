@@ -4,8 +4,8 @@ title:  "Second"
 date:   2022-11-23 22:10:53 +0100
 categories: blog
 header:
-  image: /assets/images/terrasa-back.jpg
-  teaser: /assets/images/terrasa-back.jpg
+  image: /assets/images/terrassa-back.jpg
+  teaser: /assets/images/terrassa-back.jpg
 ---
 I'd like to show my vision on contemporary clothing. It can be inspired by fairy tales, history and folklore and still be functional and comfortable.
 
