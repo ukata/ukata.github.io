@@ -3,16 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+Hello! I'm Katia from Minsk, currently based in Barcelona.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I’m a lifelong creative, having been involved in traditional painting, mural art, architecture, photography, digital art and UI design.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+At the same time I always had a passion for handcraft. I practised embroidery, jewellery design, fashion design, yet on the level of a hobby. But now I decided to realise my dream of creating clothes on a professional level.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+As a teenager I liked to redesign my clothes, and later learned how to sew some original pieces for myself. Probably I have inherited my passion for DIY from my parents. It was common in my family to create clothes, home decoration, pieces of furniture and even building a house. For this creativity I’m very grateful.
 
-
-[jekyll-organization]: https://github.com/jekyll
+During the last year I created several items of clothes which I designed myself. Here I'm presenting the story of my process. And hopefully it will help me gradually transform this activity into a profitable brand. A unique and beautiful brand we can all enjoy.
