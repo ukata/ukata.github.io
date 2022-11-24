@@ -67,3 +67,4 @@ defaults:
       author_profile: true
       read_time: true
       entries_layout: grid
+include: ["_pages"]
