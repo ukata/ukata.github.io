@@ -7,7 +7,7 @@ For all the inquiries, please contact me via <a href = "mailto: katia@ukata.me">
 
 Or reach me on:
 
-<a href = "https://www.instagram.com/ukata.me/">Instagram</a>
+<a href = "https://www.instagram.com/ukata.me/" target="_blank">Instagram</a>
 
 
 
