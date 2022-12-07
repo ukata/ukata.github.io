@@ -1,0 +1,17 @@
+---
+layout: single
+title:  Intro
+date:   2022-12-07 22:10:53 +0100
+categories: blog
+header:
+teaser: /assets/images/intro.jpg
+entries_layout: grid
+---
+![Me in my handmade kimono](/assets/images/intro.jpg)
+
+Hello!
+
+My name is Katia. Welcome and please feel comfortable, cause this blog is about cozy clothing.
+
+I often cannot find clothes in shops, but I always imagine what I want. That's why I started crafting my own clothes. My style has little to do with contemporary fashion, it’s based on traditional folk costume, with a little bit of magic and sparkles of fantasy ✨
+Here I will be sharing my process and inspiration. And if you like my style, let me know with your kind comments ❤
