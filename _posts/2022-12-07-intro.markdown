@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  Intro
+title:  Hello!
 date:   2022-12-07 22:10:53 +0100
 categories: blog
 header:
@@ -9,8 +9,6 @@ header:
 entries_layout: grid
 ---
 ![Me in my handmade kimono](/assets/images/intro.jpg)
-
-Hello!
 
 My name is Katia. Welcome and please feel comfortable, cause this blog is about cozy clothing.
 
