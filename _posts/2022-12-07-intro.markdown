@@ -4,7 +4,7 @@ title:  Hello!
 date:   2022-12-07 22:10:53 +0100
 categories: blog
 header:
-  image: /assets/images/intro.jpg
+  image: /assets/images/terrassa-back.jpg
   teaser: /assets/images/intro.jpg
 entries_layout: grid
 ---
