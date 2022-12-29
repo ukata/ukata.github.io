@@ -11,4 +11,4 @@ At the same time, I always had a passion for handcraft. I practiced embroidery, 
 
 During the last year, I created several items of clothes that I designed myself. Here I am presenting the story of my process. And hopefully, it will help me gradually transform this activity into a profitable brand. A unique and beautiful brand we can all enjoy.
 
-![Me in handmade rose headband](/assets/images/about.jpg)
+![Me in handmade rose headband](/assets/images/about3.jpg)
