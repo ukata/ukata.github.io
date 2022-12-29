@@ -56,7 +56,7 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "contrast"
 defaults:
   # _posts
   - scope:
